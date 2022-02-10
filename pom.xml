@@ -25,7 +25,7 @@
 		<dependency>
 			<artifactId>hibernate-core</artifactId>
 			<groupId>org.hibernate</groupId>
-			<version>5.4.0.CR2</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
